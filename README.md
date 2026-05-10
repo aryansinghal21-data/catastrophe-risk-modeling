@@ -93,5 +93,5 @@ catastrophe-risk-modeling/
 ---
 
 ## 👤 Author
-**Aryan Singhal** | Aspiring Actuarial Data scientist  
+**Aryan Singhal** | Aspiring Actuarial Data Analyst 
 [LinkedIn](https://www.linkedin.com/in/aryansinghal21/) | [Email](mailto:aryansinghal821@gmail.com)
